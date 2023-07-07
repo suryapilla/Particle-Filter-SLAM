@@ -1,5 +1,6 @@
 # Particle Filter SLAM
 
+
 ## Objective:
 Implement simultaneous localization and mapping (SLAM) using encoder and IMU odometry, 2-D Li-
 DAR scans, and RGBD measurements from a differential-drive robot. Use the odometry, and LiDAR
