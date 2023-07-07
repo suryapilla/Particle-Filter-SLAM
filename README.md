@@ -56,7 +56,7 @@ Download the dataRGBD dataset from the link and copy the dataRGBD "data" directo
 ```
 conda create --name env_particleSLAM
 conda activate env_particleSLAM
-git clone https://github.com/suryapilla/Vision-and-Robotics/tree/particleSLAM/robotics/objectTracking
+git clone https://github.com/suryapilla/particleFilterSLAM.git
 pip install -r requirements.txt
 ```
 - utils.py contains all relevant functions required for the main function
